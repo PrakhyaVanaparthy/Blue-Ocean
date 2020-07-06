@@ -23,4 +23,3 @@ As a part of the project, you will need to install Jenkins and a few plugins to 
 
 =======
 # Blue-Ocean
->>>>>>> f69ee1cec783b1329820d14d1e66e3bad7a3228d
