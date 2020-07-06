@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ND9991 - C3 - Build CI/CD Pipelines, Monitoring, and Logging
 This repository provides the supporting material for the "ND9991 Cloud DevOps Nanodegree - C3 - Build CI/CD Pipelines, Monitoring, and Logging" course. This repo has two more branches, other than the master branch. 
 
@@ -21,3 +22,6 @@ As a part of the project, you will need to install Jenkins and a few plugins to 
 
 
 
+=======
+# Blue-Ocean
+>>>>>>> f69ee1cec783b1329820d14d1e66e3bad7a3228d
